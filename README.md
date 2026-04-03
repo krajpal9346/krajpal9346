@@ -1,10 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Kashish%20Rajpal&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20Full%20Stack%20Builder&descAlignY=58&descSize=20&animation=fadeIn&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Kashish%20Rajpal&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Full%20Stack%20Builder&descAlignY=58&descSize=20&animation=fadeIn&fontAlign=50"/>
 
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=🤖+Building+Intelligent+AI+Systems;🎓+CGPA+9.43+%7C+GD+Goenka+University;🔬+Computer+Vision+%7C+NLP+%7C+Deep+Learning;🚀+Turning+Ideas+into+Real+AI+Solutions;💡+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Systems;CGPA+9.43+%7C+GD+Goenka+University;Computer+Vision+%7C+NLP+%7C+Deep+Learning;Turning+Ideas+into+Real+AI+Solutions;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -21,9 +19,9 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🙋‍♂️ About Me
+## About Me
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 - 🎓 **B.Tech CSE (AI & ML)** — G.D. Goenka University *(CGPA: **9.43/10**)*
 - 🌏 Also studied at **Conestoga College, Waterloo, Canada** *(87.75%)*
@@ -231,13 +229,13 @@
 
 <div align="center">
 
-[![Google Cloud](https://img.shields.io/badge/✅_Prepare_Data_for_ML_APIs-Google_Cloud_Skill_Badge-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![Google Cloud](https://img.shields.io/badge/%E2%9C%85_Prepare_Data_for_ML_APIs-Google_Cloud_Skill_Badge-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 
-[![Google Cloud](https://img.shields.io/badge/✅_Introduction_to_Generative_AI-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+[![Google Cloud](https://img.shields.io/badge/%E2%9C%85_Introduction_to_Generative_AI-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
 
-[![Microsoft](https://img.shields.io/badge/✅_Introduction_to_AI_Concepts-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://microsoft.com)
+[![Microsoft](https://img.shields.io/badge/%E2%9C%85_Introduction_to_AI_Concepts-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://microsoft.com)
 
-[![GFG](https://img.shields.io/badge/✅_Data_Structures_%26_Algorithms-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+[![GFG](https://img.shields.io/badge/%E2%9C%85_Data_Structures_%26_Algorithms-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
 
 </div>
 
@@ -247,8 +245,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krajpal9346&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krajpal9346&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&border_radius=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=krajpal9346&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=krajpal9346&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&border_radius=10" width="49%" />
 
 <br/><br/>
 
@@ -262,19 +260,15 @@
 
 <div align="center">
 
-### 💬 I'm always open to exciting opportunities, collaborations, and tech conversations!
+### 💬 Always open to exciting opportunities, collaborations, and tech conversations!
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/📧_Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashishrajpal499@gmail.com)
+[![Gmail](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashishrajpal499@gmail.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashish-rajpal)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashish-rajpal)
 &nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/⚡_Follow_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/krajpal9346)
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="65%"/>
+[![LeetCode](https://img.shields.io/badge/Follow_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/krajpal9346)
 
 <br/><br/>
 
