@@ -1,96 +1,94 @@
 <h1 align="center">Hi 👋, I'm Kashish Rajpal</h1>
-<h3 align="center">🚀 AI & ML Enthusiast | Full Stack Developer | Problem Solver</h3>
-
----
-
-## 👩‍💻 About Me
-
-🎓 B.Tech CSE (AI & ML) @ G.D. Goenka University (CGPA: 9.43)  
-💡 Passionate about building AI-driven solutions and solving real-world problems  
-🌱 Currently exploring **Machine Learning, NLP, and Full Stack Development**  
-💻 Strong in **Data Structures & Algorithms**  
-🌍 Open to internships & collaboration opportunities  
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-`C` `C++` `Java` `Python` `JavaScript` `PHP`
-
-### 🌐 Web Development
-`HTML` `CSS` `JavaScript` `Flask` `REST APIs`
-
-### 🤖 AI/ML
-`Machine Learning` `NLP` `Scikit-learn`
-
-### 🗄️ Databases
-`SQL` `MongoDB`
-
----
-
-## 🚀 Projects
-
-### 🔹 AI-Based Resume Screening & Job Matching System
-- NLP-based system to analyze resumes and match with job descriptions  
-- Implemented keyword extraction & similarity scoring  
-
-### 🔹 AI-Powered Disease Prediction System
-- ML-based web app to predict diseases from symptoms  
-- Built using Flask + Scikit-learn  
-
-### 🔹 AI Tic Tac Toe Game
-- Unbeatable AI using Minimax Algorithm  
-- Interactive web interface  
-
-### 🔹 Sudoku AI Solver
-- Backtracking-based intelligent solver  
-- Real-time visualization  
-
-### 🔹 Smart Traffic Monitoring System
-- Built using YOLOv8 & OpenCV  
-- Vehicle detection, tracking & speed estimation  
-
----
-
-## 💼 Experience
-
-🔹 Software Engineer Intern @ YugaYatra Retail  
-- Worked with AI tools, Firebase, and real-world projects  
-- Built web applications and UI components  
-
-🔹 Senior Sales Executive @ Yugen Infra  
-🔹 Customer Service Executive @ Globiva  
-
----
-
-## 📜 Certifications
-
-✔ Google Cloud – Prepare Data for ML APIs  
-✔ Microsoft – Introduction to AI Concepts  
-✔ Google Cloud – Generative AI  
-✔ GeeksforGeeks – Data Structures & Algorithms  
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">AI/ML Engineer & Full Stack Developer | B.Tech CSE (AI & ML) @ GD Goenka University</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krajpal9346&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krajpal9346&theme=radical" />
+  <a href="mailto:kashishrajpal499@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/kashish-rajpal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/krajpal9346">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 🧠 About Me
 
-📧 Email: kashishrajpal499@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/kashish-rajpal  
-💻 GitHub: https://github.com/krajpal9346  
-🧠 LeetCode: https://leetcode.com/krajpal9346  
+- 🎓 Pursuing **B.Tech in CS (AI & ML)** at GD Goenka University — CGPA: **9.43/10**
+- 💼 Currently interning as a **Software Engineer** at YugaYatra Retail OPC Pvt. Ltd.
+- 🤖 Passionate about **AI/ML, Computer Vision, and Full Stack Development**
+- 🚀 Building intelligent systems that solve real-world problems
+- 📫 Reach me at **kashishrajpal499@gmail.com**
 
 ---
 
-## ⚡ Fun Fact
+### 🛠️ Tech Stack
 
-I love turning ideas into real-world AI solutions and continuously improving my problem-solving skills 💡
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**AI/ML & Data**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Web & Backend**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🔍 **AI Resume Screener** | NLP-powered resume matching system | Python, Flask, NLP, ML |
+| 🏥 **Disease Predictor** | Symptom-based disease prediction web app | Scikit-learn, Flask |
+| 🚦 **Smart Traffic Monitor** | Real-time vehicle detection & speed tracking | YOLOv8, OpenCV, NumPy |
+| ♟️ **AI Tic Tac Toe** | Unbeatable AI using Minimax algorithm | Python, Flask |
+| 🧩 **Sudoku AI Solver** | Backtracking solver with web visualization | Python, Flask |
+
+---
+
+### 📜 Certifications
+
+- ☁️ **Prepare Data for ML APIs** — Google Cloud Skill Badge
+- 🤖 **Introduction to Generative AI** — Google Cloud
+- 🧠 **Introduction to AI Concepts** — Microsoft
+- 📊 **Data Structures & Algorithms** — GeeksforGeeks
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krajpal9346&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krajpal9346&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krajpal9346&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krajpal9346&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
