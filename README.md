@@ -1,96 +1,106 @@
 <h1 align="center">Hi 👋, I'm Kashish Rajpal</h1>
-<h3 align="center">🚀 AI & ML Enthusiast | Full Stack Developer | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things&center=true&width=500&height=50">
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech CSE (AI & ML) @ G.D. Goenka University (CGPA: 9.43)  
-💡 Passionate about building AI-driven solutions and solving real-world problems  
-🌱 Currently exploring **Machine Learning, NLP, and Full Stack Development**  
-💻 Strong in **Data Structures & Algorithms**  
-🌍 Open to internships & collaboration opportunities  
+- 🎓 B.Tech CSE (AI & ML) @ G.D. Goenka University (CGPA: 9.43)
+- 🤖 Passionate about AI, ML & building real-world solutions
+- 💡 Strong in Data Structures & Algorithms
+- 🌱 Currently exploring **Deep Learning & System Design**
+- 🚀 Open to **Internships & Tech Opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-`C` `C++` `Java` `Python` `JavaScript` `PHP`
+<p align="center">
 
-### 🌐 Web Development
-`HTML` `CSS` `JavaScript` `Flask` `REST APIs`
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,flask,mongodb,mysql" /><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-### 🤖 AI/ML
-`Machine Learning` `NLP` `Scikit-learn`
-
-### 🗄️ Databases
-`SQL` `MongoDB`
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔹 AI-Based Resume Screening & Job Matching System
-- NLP-based system to analyze resumes and match with job descriptions  
-- Implemented keyword extraction & similarity scoring  
+### 🧠 AI Resume Screening System
+✔ NLP-based resume analysis & job matching  
+✔ Keyword extraction + similarity scoring  
 
-### 🔹 AI-Powered Disease Prediction System
-- ML-based web app to predict diseases from symptoms  
-- Built using Flask + Scikit-learn  
+### 🩺 Disease Prediction System
+✔ ML-based disease prediction  
+✔ Flask-powered web app  
 
-### 🔹 AI Tic Tac Toe Game
-- Unbeatable AI using Minimax Algorithm  
-- Interactive web interface  
+### 🎮 AI Tic Tac Toe
+✔ Minimax Algorithm (Unbeatable AI)  
 
-### 🔹 Sudoku AI Solver
-- Backtracking-based intelligent solver  
-- Real-time visualization  
+### 🧩 Sudoku AI Solver
+✔ Backtracking-based intelligent solver  
 
-### 🔹 Smart Traffic Monitoring System
-- Built using YOLOv8 & OpenCV  
-- Vehicle detection, tracking & speed estimation  
+### 🚦 Smart Traffic Monitoring
+✔ YOLOv8 + OpenCV  
+✔ Vehicle detection & tracking  
 
 ---
 
 ## 💼 Experience
 
-🔹 Software Engineer Intern @ YugaYatra Retail  
-- Worked with AI tools, Firebase, and real-world projects  
-- Built web applications and UI components  
+💻 **Software Engineer Intern – YugaYatra Retail**  
+- Built real-world AI + web applications  
+- Worked with Firebase & modern tools  
 
-🔹 Senior Sales Executive @ Yugen Infra  
-🔹 Customer Service Executive @ Globiva  
+📊 **Senior Sales Executive – Yugen Infra**  
+📞 **Customer Service Executive – Globiva**  
 
 ---
 
 ## 📜 Certifications
 
-✔ Google Cloud – Prepare Data for ML APIs  
-✔ Microsoft – Introduction to AI Concepts  
-✔ Google Cloud – Generative AI  
-✔ GeeksforGeeks – Data Structures & Algorithms  
+🏅 Google Cloud – ML APIs  
+🏅 Microsoft – AI Concepts  
+🏅 Google Cloud – Generative AI  
+🏅 GeeksforGeeks – DSA  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krajpal9346&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krajpal9346&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krajpal9346&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krajpal9346&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krajpal9346&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krajpal9346/krajpal9346/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: kashishrajpal499@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/kashish-rajpal  
-💻 GitHub: https://github.com/krajpal9346  
-🧠 LeetCode: https://leetcode.com/krajpal9346  
+<p align="center">
+<a href="https://linkedin.com/in/kashish-rajpal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:kashishrajpal499@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://leetcode.com/krajpal9346"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-I love turning ideas into real-world AI solutions and continuously improving my problem-solving skills 💡
+💡 I love building AI-powered products that solve real-world problems and continuously leveling up my skills 🚀
