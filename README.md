@@ -1,69 +1,68 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Kashish%20Rajpal&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20Full%20Stack%20Builder&descAlignY=58&descSize=20&animation=fadeIn&fontAlign=50"/>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Kashish%20Rajpal&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20Full%20Stack%20Builder&descAlignY=60&descSize=18&animation=fadeIn&fontAlign=50" />
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=650&lines=🎓+B.Tech+CSE+(AI+%26+ML)+%7C+CGPA+9.43%2F10;🤖+Building+Intelligent+AI+Systems;🌐+Full+Stack+Developer+%7C+Flask+%2B+Python;🚀+Turning+Ideas+Into+Real-World+Solutions;🔍+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=🤖+Building+Intelligent+AI+Systems;🎓+CGPA+9.43+%7C+GD+Goenka+University;🔬+Computer+Vision+%7C+NLP+%7C+Deep+Learning;🚀+Turning+Ideas+into+Real+AI+Solutions;💡+Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![Gmail](https://img.shields.io/badge/-kashishrajpal499@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kashishrajpal499@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-kashish--rajpal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashish-rajpal)
-[![GitHub](https://img.shields.io/badge/-krajpal9346-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/krajpal9346)
-[![LeetCode](https://img.shields.io/badge/-krajpal9346-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/krajpal9346)
-[![Profile Views](https://komarev.com/ghpvc/?username=krajpal9346&label=Profile+Views&color=7c3aed&style=flat-square)](https://github.com/krajpal9346)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashishrajpal499@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashish-rajpal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krajpal9346)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/krajpal9346)
+
+<img src="https://komarev.com/ghpvc/?username=krajpal9346&label=Profile+Views&color=7c3aed&style=flat-square" />
 
 </div>
 
 ---
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🙋‍♂️ About Me
 
-&nbsp;🎓 &nbsp;**B.Tech CSE (AI & ML)** — G.D. Goenka University | **CGPA: 9.43 / 10**
+<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-&nbsp;💼 &nbsp;**Software Engineer Intern** @ YugaYatra Retail OPC Pvt. Ltd.
-
-&nbsp;🌍 &nbsp;Based in **Gurugram, Haryana, India** 🇮🇳
-
-&nbsp;🤖 &nbsp;Passionate about **AI/ML, Computer Vision & NLP**
-
-&nbsp;🌐 &nbsp;Love building **full-stack AI-powered web applications**
-
-&nbsp;🌱 &nbsp;Currently exploring **Deep Learning & Cloud AI Services**
-
-&nbsp;🏆 &nbsp;Completed virtual programs at **JPMorgan, Tata & Deloitte**
-
-&nbsp;🤝 &nbsp;Open to **Internships, Research & Open Source Collabs**
-
-&nbsp;📬 &nbsp;Reach me: **kashishrajpal499@gmail.com**
+- 🎓 **B.Tech CSE (AI & ML)** — G.D. Goenka University *(CGPA: **9.43/10**)*
+- 🌏 Also studied at **Conestoga College, Waterloo, Canada** *(87.75%)*
+- 💼 **Software Engineer Intern** @ YugaYatra Retail OPC Pvt. Ltd.
+- 🤖 Passionate about **AI, ML, Computer Vision & NLP**
+- 🔭 Building real-world apps using **Flask, YOLOv8, Scikit-learn**
+- 🌱 Exploring **Generative AI & Cloud-based ML Pipelines**
+- 🏆 Completed simulations at **JPMorgan, Tata Group & Deloitte**
+- 📫 Reach me: **kashishrajpal499@gmail.com**
+- ⚡ Fun fact: I built an AI that **never loses** at Tic Tac Toe 😎
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎓 Education
 
 <table width="100%">
   <tr>
-    <td width="10%" align="center">🏛️</td>
-    <td width="55%"><b>G.D. Goenka University</b> — Sohna, Haryana<br/><sub>B.Tech Computer Science & Engineering (AI & ML)</sub></td>
-    <td width="20%" align="center"><code>Aug 2023 – May 2027</code></td>
-    <td width="15%" align="center"><b>⭐ 9.43 / 10</b></td>
+    <th>🏫 Institution</th>
+    <th>📚 Degree</th>
+    <th>📅 Duration</th>
+    <th>🏆 Score</th>
   </tr>
   <tr>
-    <td align="center">🍁</td>
-    <td><b>Conestoga College</b> — Waterloo, Canada 🇨🇦<br/><sub>Bachelor of Computer Science Honours</sub></td>
-    <td align="center"><code>Jan 2023 – May 2023</code></td>
-    <td align="center"><b>⭐ 87.75%</b></td>
+    <td><b>G.D. Goenka University</b>, Sohna, India</td>
+    <td>B.Tech — Computer Science (AI & ML)</td>
+    <td>Aug 2023 – May 2027</td>
+    <td>⭐ <b>9.43 / 10.00 CGPA</b></td>
+  </tr>
+  <tr>
+    <td><b>Conestoga College</b> 🇨🇦, Waterloo, Canada</td>
+    <td>Bachelor of Computer Science Honours</td>
+    <td>Jan 2023 – May 2023</td>
+    <td>⭐ <b>87.75%</b></td>
   </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -80,7 +79,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🤖 AI / ML & Computer Vision
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge&logo=yolo&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -105,184 +104,182 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
-### 🔍 AI-Based Resume Screening & Job Matching System
-> *Intelligent NLP pipeline that reads resumes, understands job descriptions, and computes match scores — automating what would take recruiters hours.*
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 AI Resume Screening & Job Matching</h3>
+      <p align="center">NLP-powered system that parses resumes and matches them to job descriptions using keyword extraction and cosine similarity scoring.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-8B5CF6?style=flat-square"/>
+        <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 AI Disease Prediction System</h3>
+      <p align="center">Symptom-based disease predictor using trained ML models. Full-stack web app with Scikit-learn backend and interactive Flask + JS frontend.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚦 Smart Traffic Monitoring System</h3>
+      <p align="center">Real-time vehicle detection, speed estimation, and entry/exit counting using YOLOv8 and OpenCV. Built for intelligent traffic analysis.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">♟️ AI Tic Tac Toe — Unbeatable</h3>
+      <p align="center">Strategically perfect AI opponent using the Minimax algorithm. Zero chance of winning against it. Hosted via Flask with a real-time web UI.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Minimax-22C55E?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧩 Sudoku AI — Puzzle Solver</h3>
+      <p align="center">Backtracking-based Sudoku solver with step-by-step animated web visualization. Input any puzzle, watch the AI solve it live in the browser.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Backtracking-A78BFA?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💡 More Coming Soon...</h3>
+      <p align="center">Always experimenting with new ideas in Deep Learning, GenAI, and Cloud-powered applications. Star this profile to stay updated!</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/GenAI-7c3aed?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Cloud_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
 
-- 📄 Built end-to-end NLP pipeline: text cleaning → keyword extraction → similarity scoring
-- 🔗 Integrated Python backend with Flask REST API and an interactive web UI
-- 🎯 Helps recruiters shortlist candidates in seconds using AI
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8B5CF6?style=flat-square)
-![ML](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square)
+## 💼 Experience & Internships
+
+### 🖥️ Software Engineer Intern — YugaYatra Retail OPC Pvt. Ltd.
+**`Mar 2026 – May 2026`** &nbsp;|&nbsp; 📍 India
+
+> *Building AI-powered web apps, managing e-commerce portals, and delivering freelance client solutions.*
+
+- 🔧 Built web applications using **Cursor AI**, **Firebase Studio**, and modern AI tooling
+- 🎨 Designed UI/UX assets and marketing content using **Canva**
+- 💻 Delivered real-time client projects via **Upwork** as a freelancer
+- 🛒 Managed seller portals on **Amazon & Flipkart** — full e-commerce operations
+- 🤝 Collaborated on live projects using **Google Workspace**
+
+---
+
+### 🏢 Senior Sales Executive — Yugen Infra
+**`May 2024 – Jul 2024`** &nbsp;|&nbsp; 📍 India
+
+> *Real estate solutions, client relationship management, and deal negotiation.*
+
+- 🏠 Presented tailored real estate solutions by understanding client requirements
+- 🤝 Built long-term relationships and successfully negotiated & closed deals
+- 🔄 Coordinated with internal teams for smooth transaction management
 
 ---
 
-### 🏥 AI-Powered Disease Prediction System
-> *Enter symptoms, get AI predictions. A full-stack ML web app that makes basic health screening accessible to everyone.*
+### 📞 Customer Service Executive — Globiva
+**`Jun 2023 – Jul 2023`** &nbsp;|&nbsp; 📍 India
 
-- 🧪 Trained and evaluated multiple classification models using Scikit-learn
-- 🌐 Seamless Flask + HTML/CSS/JS frontend for smooth user experience
-- 📊 Includes model performance comparison and symptom analysis
+> *Customer support operations with focus on resolution speed and satisfaction.*
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![HTML/CSS/JS](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat-square&logo=html5&logoColor=white)
+- 📋 Resolved customer queries efficiently through calls and support channels
+- ✅ Maintained high service standards and ensured quick resolutions
+- 🤝 Collaborated with teammates to improve overall satisfaction metrics
 
----
-
-### 🚦 AI-Based Smart Traffic Monitoring System
-> *Real-time computer vision system that watches traffic, counts vehicles, estimates speed, and generates analytics — no human needed.*
-
-- 🎥 Real-time vehicle detection & multi-object tracking using YOLOv8 (Ultralytics)
-- ⚡ Speed estimation and entry/exit counting using OpenCV & NumPy
-- 📈 Designed for traffic management and smart city infrastructure
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
----
-
-### ♟️ AI Tic Tac Toe — Unbeatable Opponent
-> *An AI that never loses. Built using the Minimax algorithm with a real-time web interface — try to beat it!*
-
-- 🧠 Minimax algorithm ensures optimal play in every scenario
-- 🌐 Fully interactive web UI built with Flask, HTML, CSS & JS
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Minimax](https://img.shields.io/badge/Minimax_Algorithm-22C55E?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
----
-
-### 🧩 Sudoku AI — Intelligent Puzzle Solver
-> *Watch AI think in real-time. A backtracking solver that visualizes every step of the solving process in the browser.*
-
-- ⚙️ Backtracking algorithm solves any valid Sudoku puzzle
-- 🖥️ Step-by-step visual animation rendered in the browser via Flask
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Backtracking](https://img.shields.io/badge/Backtracking-A78BFA?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
----
-
-## 💼 Work Experience
-
-<details open>
-<summary><b>🖥️ Software Engineer Intern — YugaYatra Retail OPC Pvt. Ltd.</b> &nbsp;|&nbsp; <code>Mar 2026 – May 2026</code></summary>
-<br/>
-
-- 🔧 Developed web apps and tools using **Cursor AI**, **Firebase Studio**, and AI integrations
-- 🎨 Designed UI elements and digital content with **Canva** for web & marketing
-- 💻 Delivered **freelance client projects via Upwork**, contributing from brief to deployment
-- 🛒 Managed seller portals on **Amazon & Flipkart**, gaining e-commerce operations exposure
-- 🤝 Worked collaboratively using **Google Workspace** on live production projects
-
-</details>
-
-<details>
-<summary><b>🏢 Senior Sales Executive — Yugen Infra</b> &nbsp;|&nbsp; <code>May 2024 – Jul 2024</code></summary>
-<br/>
-
-- 🏠 Understood client requirements and presented tailored real estate solutions
-- 🤝 Built strong customer relationships while negotiating and closing deals
-- 🔄 Coordinated with internal teams to ensure smooth transaction processes
-
-</details>
-
-<details>
-<summary><b>📞 Customer Service Executive — Globiva</b> &nbsp;|&nbsp; <code>Jun 2023 – Jul 2023</code></summary>
-<br/>
-
-- 📋 Handled customer queries and resolved issues through calls and support channels
-- ✅ Ensured quick and effective resolutions for product/service-related concerns
-- 🤝 Collaborated with the team to improve overall customer satisfaction
-
-</details>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌐 Virtual Experience Programs
 
-| 🏢 Company | 💼 Simulation | 📅 Completed |
-|:---|:---|:---:|
-| ![JPMorgan](https://img.shields.io/badge/JPMorgan_Chase-003087?style=flat-square&logo=jpmorgan&logoColor=white) | Software Engineering Job Simulation (Forage) | `Jan 2026` |
-| ![Tata](https://img.shields.io/badge/Tata_Group-1E3A5F?style=flat-square&logoColor=white) | GenAI Powered Data Analytics Job Simulation (Forage) | `Dec 2025` |
-| ![Deloitte](https://img.shields.io/badge/Deloitte_Australia-86BC25?style=flat-square&logoColor=white) | Technology Job Simulation (Forage) | `Dec 2025` |
+<div align="center">
 
----
+| 🏢 Company | 💼 Simulation | 📅 Completed |
+|:---:|:---|:---:|
+| ![JPMorgan](https://img.shields.io/badge/JPMorgan_Chase-003087?style=flat-square&logo=jpmorgan&logoColor=white) | Software Engineering Job Simulation — Forage | `Jan 2026` |
+| ![Tata](https://img.shields.io/badge/Tata_Group-1a1a2e?style=flat-square&logoColor=white) | GenAI Powered Data Analytics — Forage | `Dec 2025` |
+| ![Deloitte](https://img.shields.io/badge/Deloitte_Australia-86BC25?style=flat-square&logoColor=white) | Technology Job Simulation — Forage | `Dec 2025` |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📜 Certifications
 
-| 🏅 Certification | 🏢 Issuer | 📅 Date |
-|:---|:---|:---:|
-| Prepare Data for ML APIs — Skill Badge | Google Cloud ☁️ | `Dec 2025` |
-| Introduction to Generative AI | Google Cloud ☁️ | `Dec 2025` |
-| Introduction to AI Concepts | Microsoft 🔷 | `Dec 2025` |
-| Data Structures & Algorithms | GeeksforGeeks 🟢 | `Mar 2026` |
+<div align="center">
 
----
+[![Google Cloud](https://img.shields.io/badge/✅_Prepare_Data_for_ML_APIs-Google_Cloud_Skill_Badge-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+
+[![Google Cloud](https://img.shields.io/badge/✅_Introduction_to_Generative_AI-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com)
+
+[![Microsoft](https://img.shields.io/badge/✅_Introduction_to_AI_Concepts-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://microsoft.com)
+
+[![GFG](https://img.shields.io/badge/✅_Data_Structures_%26_Algorithms-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krajpal9346&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&border_radius=12" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krajpal9346&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=f093fb&currStreakLabel=a855f7&border_radius=12" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krajpal9346&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&border_radius=12" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=krajpal9346&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krajpal9346&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&border_radius=10" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krajpal9346&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=764ba2&point=f093fb&area=true&area_color=a855f7" width="98%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krajpal9346&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10" width="42%"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krajpal9346&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
-</div>
-
----
-
-## 📬 Get In Touch
+## 📬 Let's Connect
 
 <div align="center">
 
-### 💬 I'm always open to exciting opportunities, research collaborations, and AI projects!
+### 💬 I'm always open to exciting opportunities, collaborations, and tech conversations!
 
 <br/>
 
-[![Send Email](https://img.shields.io/badge/📧_Send_me_an_Email-EA4335?style=for-the-badge)](mailto:kashishrajpal499@gmail.com)
+[![Gmail](https://img.shields.io/badge/📧_Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashishrajpal499@gmail.com)
 &nbsp;&nbsp;
-[![Connect on LinkedIn](https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/kashish-rajpal)
+[![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kashish-rajpal)
 &nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/⚡_Follow_on_LeetCode-FFA116?style=for-the-badge)](https://leetcode.com/krajpal9346)
+[![LeetCode](https://img.shields.io/badge/⚡_Follow_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/krajpal9346)
 
 <br/><br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="65%"/>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-**✨ If you find my work interesting, consider giving a ⭐ to my repositories! ✨**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=130&section=footer"/>
+*⭐ If you like my work, consider starring my repositories — it means a lot!*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=130&section=footer"/>
