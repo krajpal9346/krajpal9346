@@ -37,37 +37,14 @@
 
 ## 👨‍💻 About Me
 
-```python
-class KashishRajpal:
-    def __init__(self):
-        self.name        = "Kashish Rajpal"
-        self.location    = "Gurugram, Haryana, India 🇮🇳"
-        self.degree      = "B.Tech CSE (AI & ML) — GD Goenka University"
-        self.cgpa        = "9.43 / 10.00"
-        self.email       = "kashishrajpal499@gmail.com"
-        self.role        = "Software Engineer Intern @ YugaYatra Retail OPC Pvt. Ltd."
-
-        self.passions    = [
-            "Artificial Intelligence & Machine Learning",
-            "Computer Vision & NLP",
-            "Full Stack Web Development",
-            "Solving Real-World Problems with AI"
-        ]
-
-        self.currently   = {
-            "building"  : "AI-powered web applications",
-            "learning"  : "Advanced Deep Learning & Cloud AI",
-            "open_to"   : "Internships, Research Collabs & Projects"
-        }
-
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something awesome together 🚀")
-
-me = KashishRajpal()
-me.say_hi()
-```
-
----
+🎓 Pursuing **B.Tech in CSE (AI & ML)** at GD Goenka University with a CGPA of **9.43/10**
+💼 Currently interning as a **Software Engineer** at YugaYatra Retail OPC Pvt. Ltd.
+🤖 Passionate about **AI/ML, Computer Vision, NLP & Full Stack Development**
+🌍 Based in **Gurugram, Haryana, India**
+🚀 Always building intelligent systems that solve real-world problems
+📬 Reach me at **kashishrajpal499@gmail.com**
+🌱 Currently exploring **Advanced Deep Learning & Cloud AI**
+🤝 Open to **Internships, Research Collaborations & Projects**
 
 ## 🎓 Education
 
