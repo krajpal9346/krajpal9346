@@ -245,12 +245,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krajpal9346&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=10&count_private=true" width="49%" />
+<img src="https://github-stats-alpha.vercel.app/api?username=krajpal9346&cc=0d1117&tc=a78bfa&ic=a78bfa&bc=0d1117" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=krajpal9346&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&border_radius=10" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krajpal9346&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=10" width="42%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krajpal9346&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krajpal9346&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krajpal9346&theme=tokyonight&utcOffset=5.5" width="32%"/>
 
 </div>
 
